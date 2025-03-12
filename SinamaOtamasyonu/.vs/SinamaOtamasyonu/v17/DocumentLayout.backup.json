@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|c:\\users\\bari\u015F\\source\\repos\\sinamaotamasyonu\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:frmanaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|c:\\users\\bari\u015F\\source\\repos\\sinamaotamasyonu\\kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|c:\\users\\bari\u015F\\source\\repos\\sinamaotamasyonu\\frmacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:frmacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\frmacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:frmacilis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:kay\u0131tol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|c:\\users\\bari\u015F\\source\\repos\\sinamaotamasyonu\\kay\u0131tol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:kay\u0131tol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\frmbiletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EA35CDD4-966D-4915-8D42-D01089721F49}|SinamaOtamasyonu.csproj|solutionrelative:frmbiletler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAnaForm.cs",
+              "RelativeToolTip": "FrmAnaForm.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:30:32.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Kay\u0131tOl.cs",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\Kay\u0131tOl.cs",
+              "RelativeDocumentMoniker": "Kay\u0131tOl.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\Kay\u0131tOl.cs",
+              "RelativeToolTip": "Kay\u0131tOl.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:32:20.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmAcilis.cs",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAcilis.cs",
+              "RelativeDocumentMoniker": "FrmAcilis.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAcilis.cs",
+              "RelativeToolTip": "FrmAcilis.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAkwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:24:10.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kay\u0131tOl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\Kay\u0131tOl.cs",
+              "RelativeDocumentMoniker": "Kay\u0131tOl.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\Kay\u0131tOl.cs [Design]",
+              "RelativeToolTip": "Kay\u0131tOl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:48:00.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAcilis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAcilis.cs",
+              "RelativeDocumentMoniker": "FrmAcilis.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAcilis.cs [Design]",
+              "RelativeToolTip": "FrmAcilis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:39:29.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAnaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAnaForm.cs",
+              "RelativeDocumentMoniker": "FrmAnaForm.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmAnaForm.cs [Design]",
+              "RelativeToolTip": "FrmAnaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T03:51:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kay\u0131tOl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\Kay\u0131tOl.Designer.cs",
+              "RelativeDocumentMoniker": "Kay\u0131tOl.Designer.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\Kay\u0131tOl.Designer.cs",
+              "RelativeToolTip": "Kay\u0131tOl.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBZwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:59:34.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmBiletler.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmBiletler.cs",
+              "RelativeDocumentMoniker": "FrmBiletler.cs",
+              "ToolTip": "C:\\Users\\BARI\u015E\\source\\repos\\SinamaOtamasyonu\\FrmBiletler.cs [Design]",
+              "RelativeToolTip": "FrmBiletler.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T20:16:35.145Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
